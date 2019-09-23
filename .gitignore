@@ -1,0 +1,11 @@
+.env
+
+*.plist
+
+*.meta
+
+Assets/MediumMechStriker/
+
+Assets/DinV/
+
+Assets/Materials/

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{A1801B09-3361-1E6A-ED7C-DDF8CCAA691A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DBHandler.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DBHandler.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/SaveScore.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Firebase" expanded="True" selected="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3a41ab52-416d-4cc2-9af5-efb73b9d0263" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
